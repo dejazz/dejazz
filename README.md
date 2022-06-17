@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou aprendendo next.js no front-end e no back-end, estou estudando bancos de dados e suas integrações em API REST FULL.
  
 <hr>
-## :star: Meu Portfólio
+<h2> :star: Meu Portfólio </h2>
 
 Url: https://gabriel-dev.app
 
@@ -24,7 +24,7 @@ Url: https://gabriel-dev.app
 
 <hr>
 
-## Contatos
+<h2> :telephone_receiver: Contatos </h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-gabrielmunizsch@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielmunizsch@gmail.com)](mailto:gabrielmunizsch@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-dejazz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-muniz-schneider/)](https://www.linkedin.com/in/gabriel-muniz-schneider/)
