@@ -6,7 +6,7 @@
 <hr>
 <h2> :star: Meu Portfólio </h2>
 
-Url: https://gabriel-dev.app
+ - :link: Url: https://gabriel-dev.app
 
 <hr>
  
