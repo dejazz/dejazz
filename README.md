@@ -24,7 +24,7 @@
 
 ## Contatos
 
-[![Gmail Badge](https://img.shields.io/badge/-gabrielmunizsch@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielmunizsch@gmail.com)](mailto:ing.miller.vega@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gabrielmunizsch@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielmunizsch@gmail.com)](mailto:gabrielmunizsch@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-dejazz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-muniz-schneider/)](https://www.linkedin.com/in/gabriel-muniz-schneider/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/dejazz)](https://github.com/dejazz)
 
