@@ -1,5 +1,5 @@
-## Olá, me chamo Gabriel ! 
-### Bem vindo ao meu perfil GitHub 👋
+## Olá, 
+## Bem vindo ao meu perfil GitHub 👋
     
 - 🌱 Atualmente estou aprendendo next.js no front-end e no back-end, estou estudando bancos de dados e suas integrações em API REST FULL.
  
