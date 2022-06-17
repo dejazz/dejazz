@@ -27,7 +27,7 @@
 <h2> :telephone_receiver: Contatos </h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-gabrielmunizsch@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielmunizsch@gmail.com)](mailto:gabrielmunizsch@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-dejazz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-muniz-schneider/)](https://www.linkedin.com/in/gabriel-muniz-schneider/)
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-muniz-schneider/)](https://www.linkedin.com/in/gabriel-muniz-schneider/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/dejazz)](https://github.com/dejazz)
 <hr>
 <h2> Meus projetos ⬇️ </h2>
