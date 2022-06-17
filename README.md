@@ -3,8 +3,10 @@
     
 - 🌱 Atualmente estou aprendendo next.js no front-end e no back-end, estou estudando bancos de dados e suas integrações em API REST FULL.
  
- 
+<hr>
+## :star: Meu Portfólio
 
+Url: https://gabriel-dev.app
 
 <hr>
  
@@ -27,8 +29,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-gabrielmunizsch@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielmunizsch@gmail.com)](mailto:gabrielmunizsch@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-dejazz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-muniz-schneider/)](https://www.linkedin.com/in/gabriel-muniz-schneider/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/dejazz)](https://github.com/dejazz)
-
-
+<hr>
+<h2> Meus projetos ⬇️ </h2>
 <!--
 **dejazz/dejazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
