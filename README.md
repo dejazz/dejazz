@@ -22,6 +22,12 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<div align="center">
+  <a href="https://github.com/dejazz">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dejazz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejazz&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
+
 <hr>
 
 <h2> :telephone_receiver: Contatos </h2>
