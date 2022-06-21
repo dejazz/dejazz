@@ -5,7 +5,7 @@
 <hr>
 <h2> :star: Meu Portfólio </h2>
 
- - :link: Url: https://gabriel-dev.app
+ - :link: Url:https://gabriel-dev-ten.vercel.app/
 
 <hr>
  
