@@ -10,7 +10,7 @@
 <hr>
  
 ## ⚡ Tecnologias
-<div style="display: inline_block"><br>
+<div marginBottom="1rem" style="display: inline_block"><br>
   <img align="center" alt="ph-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ph-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="ph-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -20,7 +20,7 @@
   <img align="center" alt="ph-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="ph-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="ph-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="right" alt="ph-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/656932126683299860/929547749861511259/1615752261362.png">
+  <img align="right" alt="ph-pic" height="150" style="border-radius:50px;" 
 </div>
 
 <div align="center">
