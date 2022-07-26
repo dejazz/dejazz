@@ -36,6 +36,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-dejazz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-muniz-schneider/)](https://www.linkedin.com/in/gabriel-muniz-schneider/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/dejazz)](https://github.com/dejazz)
 <hr>
+<br>
+ 
+![Snake animation](https://github.com/Rich-Dacan/Rich-Dacan/blob/output/github-contribution-grid-snake.svg)
+ <br>
 <h2> Meus projetos ⬇️ </h2>
 <!--
 **dejazz/dejazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
