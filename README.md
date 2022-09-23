@@ -1,6 +1,6 @@
 ## Gabriel Schneider
 
-👨‍💻 Frontend Developer <br>
+👨‍💻 Backend Developer <br>
 📍  Curitiba, Brazil 
 
 <h2> :star: Meu Portfólio </h2>
