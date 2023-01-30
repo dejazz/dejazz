@@ -1,7 +1,7 @@
 ## Gabriel Schneider
 
 👨‍💻 Backend Developer <br>
-📍  Curitiba, Brazil 
+📍  Curitiba - PR, Brazil 
 
 <h2> :star: Meu Portfólio </h2>
 
@@ -23,8 +23,11 @@
   <img align="center" alt="gs-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 <hr>
-
-
+<div>
+  <a href="https://github.com/dejazz">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dejazz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejazz&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
 <hr>
 
 <h2> :telephone_receiver: Contatos </h2>
@@ -37,11 +40,7 @@
 <h2> Meus projetos ⬇️ </h2>
 <!--
 **dejazz/dejazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<div>
-  <a href="https://github.com/dejazz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dejazz&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejazz&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
